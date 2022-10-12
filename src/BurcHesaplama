@@ -1,0 +1,7 @@
+import java.util.Scanner;
+
+
+public class DaireAlanCevre {
+    public static void main(String[] args){
+        
+    }
