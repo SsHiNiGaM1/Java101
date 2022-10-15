@@ -33,7 +33,7 @@ public class UcakBiletiHesaplama{
 
             switch (yolculuktipi) {
                 case 1:
-                    tutar = tutar;
+                    tutar =tutar;
                     break;
                 case 2:
                     indirim = tutar * tip;
